@@ -14,7 +14,7 @@ string deck[] = {
 };
 vector<string> pDeck;
 vector<string> cDeck;
-vector<string> dealt = {"foo", "bar", "baz"};
+vector<string> dealt;
 vector<string> onTable;
 vector<string> warTable;
 string newCard;
